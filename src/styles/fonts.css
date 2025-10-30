@@ -1,0 +1,17 @@
+@font-face {
+  font-family: Museo;
+  src: url('../assets/museo-bold-webfont.woff2') format('woff2'),
+    url('../assets/museo-bold-webfont.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: MuseoSlab;
+  src: url('../assets/museoslab-thin-webfont.woff2') format('woff2'),
+    url('../assets/museoslab-thin-webfont.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
